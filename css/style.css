@@ -1,0 +1,31 @@
+
+.heading{
+    border:solid black 1px;
+    padding: 12px;
+    /* margin-bottom: 12px; */
+}
+
+h1{
+    margin-top: 0;
+    text-decoration: underline;
+    margin-bottom: 22px;
+}
+p{
+    margin-bottom: 22px;
+    margin-top: 0px;
+}
+
+.images{
+    margin-top: 12px;
+}
+.images img{
+    margin-bottom: 12px;
+}
+
+.trivia{
+    margin-top: 12px;
+}
+
+ol{
+    padding: 0px 18px;
+}
